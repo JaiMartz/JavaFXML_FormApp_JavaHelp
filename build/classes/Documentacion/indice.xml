@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<index version="1.0">
+	<indexitem text="Formulario de la Aplicacion" target="formularioAplicacion" />
+	<indexitem text="Menu de la Aplicación" target="menuDeAplicacion" />
+	<indexitem text="Menu Salir" target="funcionSalir" />
+	<indexitem text="Menu Limpiar campos" target="funcionLimpiar" />
+	<indexitem text="Menu Acerca de..." target="funcionAcercaDe" />
+	<indexitem text="Menu Ayuda" target="funcionAyuda" >
+</index>

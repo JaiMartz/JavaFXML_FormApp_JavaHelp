@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<map version="1.0">
+	<mapID target="formularioAplicacion" url="html\formularioAplicacion.html"/>
+	<mapID target="menuDeAplicacion" url="html\menuDeAplicacion.html"/>
+	<mapID target="funcionLimpiar" url="html\funcionLimpiar.html"/>
+	<mapID target="funcionSalir" url="html\funcionSalir.html"/>	
+	<mapID target="funcionAcercaDe" url="html\funcionAcercaDe.html"/>
+	<mapID target="funcionAyuda" url="html\funcionAyuda.html"/>
+</map>

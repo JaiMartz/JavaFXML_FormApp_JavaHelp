@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<toc version="1.0">
+	<tocitem text="Ayuda">
+		<tocitem text="Formulario">
+			<tocitem text="Formulario de Aplicacion" target="formularioAplicacion"/>
+			<tocitem text="Menu de aplicación" target="menuDeAplicacion"/>
+                        <tocitem text="Funcion Limpiar" target="funcionLimpiar"/>
+                        <tocitem text="Funcion Salir" target="funcionSalir"/>
+                        <tocitem text="Funcion Acerca de ..." target="funcionAcercaDe"/>
+                        <tocitem text="Funcion Ayuda" target="funcionAyuda"/>
+		</tocitem>
+	</tocitem>
+</toc>

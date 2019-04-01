@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Tarea06_DI.jnlp">
+  <information>
+    <title>Tarea06_DI</title>
+    <vendor>Jairo</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Tarea06_DI.jar" size="13953" download="eager" />
+    <jar href="lib\jh.jar" size="508396" download="eager" />
+    <jar href="lib\jhall.jar" size="562749" download="eager" />
+    <jar href="lib\jhbasic.jar" size="380231" download="eager" />
+    <jar href="lib\jsearch.jar" size="166255" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="Tarea06_DI" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="tarea06_di.Tarea06_DI"  name="Tarea06_DI" />
+  <update check="always"/>
+</jnlp>
